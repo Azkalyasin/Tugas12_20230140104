@@ -1,1 +1,2 @@
-!(img/ssform.png)
+![My Logo](img/ssform.png)
+
